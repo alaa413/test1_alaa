@@ -1,3 +1,4 @@
 pandas==1.5.3
 streamlit==1.25.0
 streamlit_modal==0.1.0
+openpyxl==23.3.2
